@@ -1,0 +1,3 @@
+Hello world
+Java is easy to learn
+This is a word count program
